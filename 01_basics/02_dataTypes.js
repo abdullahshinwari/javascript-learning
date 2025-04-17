@@ -8,7 +8,7 @@ console.log("hello")
 
 let name = 'Ahmed'
 let age = 25
-let isLoggedIN = false
+let isLoggedIn = false
 let state;
 
 // number => 2 to power 53
